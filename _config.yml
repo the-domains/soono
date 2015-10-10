@@ -1,6 +1,6 @@
 name: soono
 favicon: null
-layout_spectrum: 0.26081
+layout_spectrum: 1
 typography_spectrum: 0.7473
 title: Soono LLC
 cta:
@@ -22,7 +22,7 @@ color:
     - '#000000'
     - '#0000ff'
     - '#0055aa'
-  brandStrength: 1
+  brandStrength: 0.5
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
