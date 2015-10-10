@@ -5,8 +5,15 @@
         <description><![CDATA[Soono LLC]]></description>
         <link>https://thegrid.ai/soono/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 10 Oct 2015 18:26:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Oct 2015 18:30:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/soono/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Services]]></title>
+            <description><![CDATA[<article><h1>Services</h1><p>Services content</p></article>]]></description>
+            <link>https://thegrid.ai/soono/services/index.html</link>
+            <guid isPermaLink="false">c144fa5a-e75f-4bfa-b98f-7414c2c70e63</guid>
+            <pubDate>Sat, 10 Oct 2015 18:30:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[About]]></title>
             <description><![CDATA[<article><h1>About</h1><p>About content</p></article>]]></description>
