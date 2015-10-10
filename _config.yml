@@ -1,6 +1,7 @@
 name: soono
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.00946
+typography_spectrum: 0.7473
 title: 'Soono LLC: Empowering Business'
 cta:
   domain: null
@@ -15,8 +16,13 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0
+  brandColors:
+    - '#1a8ccc'
+    - '#454b4f'
+    - '#000000'
+    - '#0000ff'
+    - '#0055aa'
+  brandStrength: 1
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
