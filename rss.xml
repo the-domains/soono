@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Soono LLC]]></title>
+        <description><![CDATA[Soono LLC]]></description>
+        <link>https://thegrid.ai/soono/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 10 Oct 2015 18:26:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/soono/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About]]></title>
+            <description><![CDATA[<article><h1>About</h1><p>About content</p></article>]]></description>
+            <link>https://thegrid.ai/soono/about/index.html</link>
+            <guid isPermaLink="false">810db4c4-951f-4dc3-ad23-1a3770864984</guid>
+            <pubDate>Sat, 10 Oct 2015 18:26:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Optimize]]></title>
+            <description><![CDATA[<h1>Optimize</h1>]]></description>
+            <link>https://thegrid.ai/soono/optimize/index.html</link>
+            <guid isPermaLink="false">c1e6775f-8431-492c-b871-1754e70d623a</guid>
+            <pubDate>Sat, 10 Oct 2015 17:53:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Automate]]></title>
+            <description><![CDATA[<h1>Automate</h1>]]></description>
+            <link>https://thegrid.ai/soono/automate/index.html</link>
+            <guid isPermaLink="false">348b82f0-f63d-48c5-8347-f1a23025b800</guid>
+            <pubDate>Sat, 10 Oct 2015 17:52:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Connect]]></title>
+            <description><![CDATA[<h1>Connect</h1>]]></description>
+            <link>https://thegrid.ai/soono/connect/index.html</link>
+            <guid isPermaLink="false">3320cb44-9c15-420c-a35e-755c6b39c8c5</guid>
+            <pubDate>Sat, 10 Oct 2015 17:44:42 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
